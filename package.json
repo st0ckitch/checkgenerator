@@ -1,0 +1,13 @@
+{
+    "name": "checkgenerator",
+    "version": "1.0.0",
+    "description": "Random check generator web service",
+    "main": "index.html",
+    "scripts": {
+      "start": "serve -s ."
+    },
+    "dependencies": {
+      "serve": "^14.0.1"
+    }
+  }
+  
